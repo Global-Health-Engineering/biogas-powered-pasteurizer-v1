@@ -1,1 +1,1 @@
-# pasteurizer-thermodynamic-model-V1
+# biogas-powered-pasteurizer-v1
