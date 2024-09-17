@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "To cite this repository, use:"
+license: CC-BY-4.0
+title: "System Parameter Analysis of a Biogas-Powered Faecal Sludge Pasteuriser"
+date-released: "2024-03-26"
+doi: XXX
+type: software
+authors:
+  - family-names: Imelman
+    given-names: Jent
+    email: jimelman@student.ethz.ch
+    ordid: https://orcid.org/0000-0003-2985-6331
+  - family-names: Tkaczuk
+    given-names: Jakub
+    email: jtkaczuk@ethz.ch
+    orcid: https://orcid.org/0000-0001-7997-9423
+contact:
+  - family-names: Imelman
+    given-names: Jent
+    email: jimelman@student.ethz.ch
+    ordid: https://orcid.org/0000-0003-2985-6331
+version: 0.0.1
