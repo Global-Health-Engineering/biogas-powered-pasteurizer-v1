@@ -1,3 +1,8 @@
+<!-- badges: start -->
+[![](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13784722.svg)](https://doi.org/10.5281/zenodo.13784722)
+<!-- badges: end -->
+
 # Thermodynamic Model for Parameter Analysis of Biogas-Powered Pasteuriser
 
 This repository contains Matlab and Simulink scripts used by Jent Imelman to complete his bachelor's thesis on "System Parameter Analysis of a Biogas-Powered Faecal Sludge Pasteuriser" in 2024 at the [Global Health Engineering](https://ghe.ethz.ch/) at ETH Zürich.
