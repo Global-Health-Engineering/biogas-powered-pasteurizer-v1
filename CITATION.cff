@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "To cite this repository, use:"
 license: CC-BY-4.0
-title: "System Parameter Analysis of a Biogas-Powered Faecal Sludge Pasteuriser"
+title: "Thermodynamic Model for Parameter Analysis of Biogas-Powered Pasteuriser"
 date-released: "2024-09-18"
 doi: 10.5281/zenodo.13784722
 type: software
